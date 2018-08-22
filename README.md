@@ -1,4 +1,4 @@
-# [krisfreedain.github.io](https://krisfreedain.github.io/)
+# [ianology.github.io](https://ianology.github.io/)
 
 My personal resume and contact site. 
 
